@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NV-P6/static/css/main.8b1a2c61.css",
+    "main.js": "/NV-P6/static/js/main.51b8f53b.js",
+    "static/media/aboutimg.jpg": "/NV-P6/static/media/aboutimg.be33cd35fc995b84e18a.jpg",
+    "static/media/homeimg.jpg": "/NV-P6/static/media/homeimg.e181dbc58084d2c509ac.jpg",
+    "index.html": "/NV-P6/index.html",
+    "main.8b1a2c61.css.map": "/NV-P6/static/css/main.8b1a2c61.css.map",
+    "main.51b8f53b.js.map": "/NV-P6/static/js/main.51b8f53b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b1a2c61.css",
+    "static/js/main.51b8f53b.js"
+  ]
+}
